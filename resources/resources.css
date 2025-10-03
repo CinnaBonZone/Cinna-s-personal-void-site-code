@@ -1,0 +1,14 @@
+body{
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-family: "VT323", monospace;
+}
+
+.warn{
+    color: yellow;
+}
+
+.err{
+    color: red;
+}
